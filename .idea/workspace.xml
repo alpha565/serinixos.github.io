@@ -86,7 +86,7 @@
       <module name="Serinix-OS.github.io" />
       <working_directory value="$PROJECT_DIR$" />
       <go_parameters value="-i" />
-      <kind />
+      <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <method v="2" />
@@ -95,7 +95,7 @@
       <module name="Serinix-OS.github.io" />
       <working_directory value="$PROJECT_DIR$" />
       <go_parameters value="-i" />
-      <kind />
+      <kind value="DIRECTORY" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
       <framework value="gotest" />
@@ -189,6 +189,7 @@
       <workItem from="1708486336299" duration="381000" />
       <workItem from="1708490018132" duration="2601000" />
       <workItem from="1708513697148" duration="1675000" />
+      <workItem from="1708517508271" duration="501000" />
     </task>
     <servers />
   </component>
